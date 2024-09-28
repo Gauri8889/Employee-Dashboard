@@ -22,11 +22,11 @@
       "city": "Riva"
     },
     {
-      "id": "5",
-      "employeeno": 105,
+      "employeeno": "105",
       "name": "Ashfak",
-      "salary": 85000,
-      "city": "Maharashta"
+      "city": "Maharashta",
+      "salary": "8500000",
+      "id": "5"
     },
     {
       "employeeno": "107",
@@ -41,6 +41,13 @@
       "city": "Nasik ",
       "salary": "40000",
       "id": "7"
+    },
+    {
+      "id": "64e3",
+      "employeeno": "17",
+      "name": "namu",
+      "city": "bhopal",
+      "salary": "1234333"
     }
   ]
 }
